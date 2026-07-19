@@ -2,7 +2,17 @@
 A mini hand held fan with electronics
 runs using a 9v battery, (toy) mini dc motor
 
-<img width="650" height="615" alt="Screenshot 2026-07-13 162140" src="https://github.com/user-attachments/assets/0de0d5bf-6d68-484e-903d-637763a2ef00" />
+<img width="650" height="615" alt="Screenshot 2026-07-13 162140" src="https://github.com/user-attachments/assets/0de0d5bf-6d68-484e-903d-637763a2ef00" /> 
+
+<img width="1037" height="554" alt="Screenshot 2026-07-13 163230" src="https://github.com/user-attachments/assets/7ce95d90-55da-4fd5-8b22-8afabaf2d6f5" />
+
+<img width="1225" height="610" alt="Screenshot 2026-07-15 154312" src="https://github.com/user-attachments/assets/a0ce5f2d-9017-4e54-b6c4-0f2de14ce5aa" />
+
+These are all the parts you need, I have uploaded them as 3mf (each seperatley) so that its easier to print
+
+<img width="991" height="672" alt="Screenshot 2026-07-15 160128" src="https://github.com/user-attachments/assets/e6ad32b7-446d-477f-a88f-919d7468463c" />
+
+___
 
 Instructions:
 
@@ -30,4 +40,14 @@ place the top cover ontop of the bottom cover(zip ties can be used to secure it 
 
 close the battery lid, and glue the handle grip(the zig zag one) to the handle.
 
+<img width="1359" height="694" alt="Screenshot 2026-07-13 162506" src="https://github.com/user-attachments/assets/8b8beab5-c97b-4cf2-bb7c-3a11a38af211" />
+
 Use these pictures for reference if needed
+
+___
+
+Credits,
+
+Macondo Hackclub
+
+Fusion 360
