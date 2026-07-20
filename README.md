@@ -12,6 +12,13 @@ These are all the parts you need, I have uploaded them as 3mf (each seperatley) 
 
 <img width="991" height="672" alt="Screenshot 2026-07-15 160128" src="https://github.com/user-attachments/assets/e6ad32b7-446d-477f-a88f-919d7468463c" />
 
+<img width="811" height="596" alt="Screenshot 2026-07-20 143141" src="https://github.com/user-attachments/assets/dde44c68-53c3-440c-ba20-adab45f021b4" />
+
+<img width="869" height="605" alt="Screenshot 2026-07-20 143150" src="https://github.com/user-attachments/assets/602e7ad8-95a1-490a-af79-4aa1ea43ef09" />
+
+
+In my print I have decided to remove the top cover as it restricts air flow ( when using the fan ) however, I have left the 3mf file if you want. I don't recommend using the top cover however it is optional(up to you)
+
 ___
 
 Instructions:
@@ -43,6 +50,24 @@ close the battery lid, and glue the handle grip(the zig zag one) to the handle.
 <img width="1359" height="694" alt="Screenshot 2026-07-13 162506" src="https://github.com/user-attachments/assets/8b8beab5-c97b-4cf2-bb7c-3a11a38af211" />
 
 Use these pictures for reference if needed
+
+<img width="403" height="526" alt="image" src="https://github.com/user-attachments/assets/5c14a0d4-1569-40d6-8a1c-fac21be4a82d" />
+
+<img width="527" height="742" alt="image" src="https://github.com/user-attachments/assets/d7d3fcad-26e9-4e72-b897-48844e96b05f" />
+
+<img width="375" height="555" alt="image" src="https://github.com/user-attachments/assets/f568e130-5346-428b-82e4-b016b0d24166" />
+
+<img width="377" height="551" alt="image" src="https://github.com/user-attachments/assets/f5ec968d-9191-4f35-90fd-d7b6ec6753b1" />
+
+
+This is the only wiring needed 
+
+<img width="365" height="736" alt="image" src="https://github.com/user-attachments/assets/d74f5356-ac8d-4129-8b4c-f22624dbf88d" />
+
+<img width="379" height="746" alt="image" src="https://github.com/user-attachments/assets/8337c50e-e711-49f9-9da7-d97e34702d46" />
+
+Demo: https://www.youtube.com/shorts/ZzWBzVYaTCw
+Printables: https://www.printables.com/model/1786198-hand-held-fan
 
 ___
 
